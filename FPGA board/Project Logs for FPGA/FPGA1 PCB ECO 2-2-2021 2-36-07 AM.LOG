@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=PP81 Pin=U1-80
+Removed Pin From Net: NetName=PP85 Pin=U1-81
+Removed Pin From Net: NetName=PP86 Pin=U1-85
+Removed Pin From Net: NetName=PP87 Pin=U1-86
+Removed Pin From Net: NetName=PP90 Pin=U1-87
+Removed Pin From Net: NetName=PP93 Pin=U1-90
+Removed Pin From Net: NetName=PP94 Pin=U1-93
+Removed Pin From Net: NetName=PP95 Pin=U1-94
+Removed Pin From Net: NetName=PP96 Pin=U1-95
+Removed Pin From Net: NetName=PP97 Pin=U1-96
+Removed Pin From Net: NetName=PP100 Pin=U1-97
+Removed Pin From Net: NetName=PP122 Pin=U1-100
+Added Pin To Net: NetName=PP122 Pin=U1-80
+Added Pin To Net: NetName=PP100 Pin=U1-81
+Added Pin To Net: NetName=PP97 Pin=U1-85
+Added Pin To Net: NetName=PP96 Pin=U1-86
+Added Pin To Net: NetName=PP95 Pin=U1-87
+Added Pin To Net: NetName=PP94 Pin=U1-90
+Added Pin To Net: NetName=PP93 Pin=U1-93
+Added Pin To Net: NetName=PP90 Pin=U1-94
+Added Pin To Net: NetName=PP87 Pin=U1-95
+Added Pin To Net: NetName=PP86 Pin=U1-96
+Added Pin To Net: NetName=PP85 Pin=U1-97
+Added Pin To Net: NetName=PP81 Pin=U1-100
+Added Room: Name=FPGA1

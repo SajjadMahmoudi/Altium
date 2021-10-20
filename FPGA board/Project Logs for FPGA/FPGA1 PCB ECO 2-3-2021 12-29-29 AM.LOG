@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PA2 Pin=U1-106
+Removed Pin From Net: NetName=PA3 Pin=U1-107
+Removed Pin From Net: NetName=PA4 Pin=U1-108
+Removed Pin From Net: NetName=PA5 Pin=U1-109
+Removed Pin From Net: NetName=PA6 Pin=U1-111
+Removed Pin From Net: NetName=PA7 Pin=U1-113
+Removed Pin From Net: NetName=PA8 Pin=U1-114
+Removed Pin From Net: NetName=PA11 Pin=U1-115
+Added Pin To Net: NetName=PA11 Pin=U1-106
+Added Pin To Net: NetName=PA8 Pin=U1-107
+Added Pin To Net: NetName=PA7 Pin=U1-108
+Added Pin To Net: NetName=PA6 Pin=U1-109
+Added Pin To Net: NetName=PA5 Pin=U1-111
+Added Pin To Net: NetName=PA4 Pin=U1-113
+Added Pin To Net: NetName=PA3 Pin=U1-114
+Added Pin To Net: NetName=PA2 Pin=U1-115
+Added Room: Name=FPGA1

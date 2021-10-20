@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PA4 Pin=U1-106
+Removed Pin From Net: NetName=PA2 Pin=U1-108
+Added Pin To Net: NetName=PA2 Pin=U1-106
+Added Pin To Net: NetName=PA4 Pin=U1-108
+Added Member To Class: ClassName=FPGA1 Member=Component LCD1 LCD
+Added Room: Name=FPGA1

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=E Pin=LCD1-6
+Removed Pin From Net: NetName=E Pin=U3-37
+Added Pin To Net: NetName=E_LCD Pin=LCD1-6
+Added Pin To Net: NetName=E_LCD Pin=U3-37
+Added Net: Name=E_LCD
+Added Room: Name=FPGA1

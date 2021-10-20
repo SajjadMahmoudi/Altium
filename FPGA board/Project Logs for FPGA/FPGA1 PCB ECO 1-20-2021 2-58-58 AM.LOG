@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=S3 Old Footprint=SWPBS_SPST_6X3X2 New Footprint=SWPBT_SPST_6X6X5
+Change Component Footprint: Designator=S5 Old Footprint=SWPBS_SPST_6X3X2 New Footprint=SWPBT_SPST_6X6X5
+Added Room: Name=FPGA1

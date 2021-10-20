@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MOTOR_1 Pin=U1-42
+Removed Pin From Net: NetName=BUT_RISE1 Pin=U1-43
+Removed Pin From Net: NetName=BUT_RISE2 Pin=U1-44
+Removed Pin From Net: NetName=STEP_1 Pin=U1-45
+Removed Pin From Net: NetName=STEP_2 Pin=U1-46
+Removed Pin From Net: NetName=STEP_3 Pin=U1-48
+Removed Pin From Net: NetName=STEP_4 Pin=U1-50
+Removed Pin From Net: NetName=REL_1 Pin=U1-51
+Removed Pin From Net: NetName=REL_2 Pin=U1-52
+Added Pin To Net: NetName=BUT_RISE1 Pin=U1-42
+Added Pin To Net: NetName=BUT_RISE2 Pin=U1-43
+Added Pin To Net: NetName=STEP_1 Pin=U1-44
+Added Pin To Net: NetName=STEP_2 Pin=U1-45
+Added Pin To Net: NetName=STEP_3 Pin=U1-46
+Added Pin To Net: NetName=STEP_4 Pin=U1-48
+Added Pin To Net: NetName=REL_1 Pin=U1-50
+Added Pin To Net: NetName=REL_2 Pin=U1-51
+Added Pin To Net: NetName=MOTOR_1 Pin=U1-52
+Added Room: Name=FPGA1

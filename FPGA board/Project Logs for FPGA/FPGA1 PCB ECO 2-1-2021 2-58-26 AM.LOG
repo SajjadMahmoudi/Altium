@@ -1,0 +1,594 @@
+Removed Pin From Net: NetName=3V3 Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=C2-1
+Removed Pin From Net: NetName=3V3 Pin=C3-1
+Removed Pin From Net: NetName=3V3 Pin=C4-1
+Removed Pin From Net: NetName=3V3 Pin=C5-1
+Removed Pin From Net: NetName=3V3 Pin=C6-1
+Removed Pin From Net: NetName=3V3 Pin=C7-1
+Removed Pin From Net: NetName=3V3 Pin=C8-1
+Removed Pin From Net: NetName=3V3 Pin=C9-1
+Removed Pin From Net: NetName=3V3 Pin=C10-1
+Removed Pin From Net: NetName=3V3 Pin=C11-1
+Removed Pin From Net: NetName=3V3 Pin=C12-1
+Removed Pin From Net: NetName=3V3 Pin=C13-1
+Removed Pin From Net: NetName=3V3 Pin=C14-1
+Removed Pin From Net: NetName=3V3 Pin=C15-1
+Removed Pin From Net: NetName=3V3 Pin=C16-1
+Removed Pin From Net: NetName=3V3 Pin=C17-1
+Removed Pin From Net: NetName=3V3 Pin=C18-1
+Removed Pin From Net: NetName=3V3 Pin=C19-1
+Removed Pin From Net: NetName=5V0 Pin=C19-2
+Removed Pin From Net: NetName=3V3 Pin=C20-1
+Removed Pin From Net: NetName=3V3 Pin=C21-1
+Removed Pin From Net: NetName=3V3 Pin=C22-1
+Removed Pin From Net: NetName=3V3 Pin=C23-1
+Removed Pin From Net: NetName=3V3 Pin=C24-1
+Removed Pin From Net: NetName=3V3 Pin=C25-1
+Removed Pin From Net: NetName=3V3 Pin=C26-1
+Removed Pin From Net: NetName=3V3 Pin=C27-1
+Removed Pin From Net: NetName=3V3 Pin=C28-1
+Removed Pin From Net: NetName=3V3 Pin=C29-1
+Removed Pin From Net: NetName=3V3 Pin=C30-1
+Removed Pin From Net: NetName=3V3 Pin=C31-1
+Removed Pin From Net: NetName=3V3 Pin=C32-1
+Removed Pin From Net: NetName=3V3 Pin=C33-1
+Removed Pin From Net: NetName=3V3 Pin=C35-1
+Removed Pin From Net: NetName=3V3 Pin=C36-1
+Removed Pin From Net: NetName=3V3 Pin=C37-1
+Removed Pin From Net: NetName=3V3 Pin=C37-2
+Removed Pin From Net: NetName=3V3 Pin=C38-1
+Removed Pin From Net: NetName=3V3 Pin=C38-2
+Removed Pin From Net: NetName=3V3 Pin=C39-1
+Removed Pin From Net: NetName=3V3 Pin=C39-2
+Removed Pin From Net: NetName=3V3 Pin=C40-1
+Removed Pin From Net: NetName=3V3 Pin=C40-2
+Removed Pin From Net: NetName=3V3 Pin=C41-1
+Removed Pin From Net: NetName=3V3 Pin=C42-1
+Removed Pin From Net: NetName=5V0 Pin=C42-2
+Removed Pin From Net: NetName=3V3 Pin=C43-1
+Removed Pin From Net: NetName=3V3 Pin=C43-2
+Removed Pin From Net: NetName=3V3 Pin=C44-1
+Removed Pin From Net: NetName=5V0 Pin=C44-2
+Removed Pin From Net: NetName=3V3 Pin=C45-1
+Removed Pin From Net: NetName=3V3 Pin=C45-2
+Removed Pin From Net: NetName=2.5V Pin=C46-1
+Removed Pin From Net: NetName=3V3 Pin=C46-2
+Removed Pin From Net: NetName=3V3 Pin=C47-1
+Removed Pin From Net: NetName=3V3 Pin=C47-2
+Removed Pin From Net: NetName=3V3 Pin=C48-1
+Removed Pin From Net: NetName=3V3 Pin=C48-2
+Removed Pin From Net: NetName=3V3 Pin=C49-1
+Removed Pin From Net: NetName=2.5V Pin=C49-2
+Removed Pin From Net: NetName=3V3 Pin=C50-1
+Removed Pin From Net: NetName=3V3 Pin=C50-2
+Removed Pin From Net: NetName=3V3 Pin=C51-1
+Removed Pin From Net: NetName=5V0 Pin=C51-2
+Removed Pin From Net: NetName=3V3 Pin=C52-1
+Removed Pin From Net: NetName=1.2V Pin=C53-1
+Removed Pin From Net: NetName=3V3 Pin=C53-2
+Removed Pin From Net: NetName=3V3 Pin=C54-1
+Removed Pin From Net: NetName=5V0 Pin=C54-2
+Removed Pin From Net: NetName=3V3 Pin=C55-1
+Removed Pin From Net: NetName=3V3 Pin=C56-1
+Removed Pin From Net: NetName=3V3 Pin=C56-2
+Removed Pin From Net: NetName=3V3 Pin=C57-1
+Removed Pin From Net: NetName=3V3 Pin=C57-2
+Removed Pin From Net: NetName=3V3 Pin=C58-1
+Removed Pin From Net: NetName=3V3 Pin=C58-2
+Removed Pin From Net: NetName=3V3 Pin=C59-1
+Removed Pin From Net: NetName=3V3 Pin=C59-2
+Removed Pin From Net: NetName=3V3 Pin=C60-1
+Removed Pin From Net: NetName=1.8V Pin=C60-2
+Removed Pin From Net: NetName=3V3 Pin=C61-1
+Removed Pin From Net: NetName=1.8V Pin=C61-2
+Removed Pin From Net: NetName=3V3 Pin=C62-1
+Removed Pin From Net: NetName=3V3 Pin=C63-1
+Removed Pin From Net: NetName=3V3 Pin=C64-1
+Removed Pin From Net: NetName=3V3 Pin=C65-1
+Removed Pin From Net: NetName=3V3 Pin=C66-1
+Removed Pin From Net: NetName=3V3 Pin=C67-1
+Removed Pin From Net: NetName=3V3 Pin=C68-1
+Removed Pin From Net: NetName=3V3 Pin=C69-1
+Removed Pin From Net: NetName=5V0 Pin=C70-1
+Removed Pin From Net: NetName=3V3 Pin=C70-2
+Removed Pin From Net: NetName=3V3 Pin=C72-1
+Removed Pin From Net: NetName=3V3 Pin=C74-1
+Removed Pin From Net: NetName=3V3 Pin=C74-2
+Removed Pin From Net: NetName=3V3 Pin=C75-1
+Removed Pin From Net: NetName=3V3 Pin=C76-1
+Removed Pin From Net: NetName=3V3 Pin=C76-2
+Removed Pin From Net: NetName=3V3 Pin=C77-1
+Removed Pin From Net: NetName=3V3 Pin=C78-1
+Removed Pin From Net: NetName=3V3 Pin=D4-2
+Removed Pin From Net: NetName=3V3 Pin=D5-1
+Removed Pin From Net: NetName=3V3 Pin=D6-2
+Removed Pin From Net: NetName=3V3 Pin=D7-2
+Removed Pin From Net: NetName=3V3 Pin=D8-2
+Removed Pin From Net: NetName=3V3 Pin=J1-5
+Removed Pin From Net: NetName=3V3 Pin=J1-6
+Removed Pin From Net: NetName=3V3 Pin=J1-7
+Removed Pin From Net: NetName=3V3 Pin=J1-8
+Removed Pin From Net: NetName=3V3 Pin=J1-10
+Removed Pin From Net: NetName=3V3 Pin=J1-11
+Removed Pin From Net: NetName=5V0 Pin=K1-4
+Removed Pin From Net: NetName=5V0 Pin=K2-4
+Removed Pin From Net: NetName=3V3 Pin=L1-1
+Removed Pin From Net: NetName=3V3 Pin=L2-1
+Removed Pin From Net: NetName=3V3 Pin=L4-1
+Removed Pin From Net: NetName=3V3 Pin=L5-1
+Removed Pin From Net: NetName=5V0 Pin=L6-2
+Removed Pin From Net: NetName=3V3 Pin=LCD1-1
+Removed Pin From Net: NetName=5V0 Pin=LCD1-2
+Removed Pin From Net: NetName=5V0 Pin=LCD1-15
+Removed Pin From Net: NetName=3V3 Pin=LCD1-16
+Removed Pin From Net: NetName=3V3 Pin=LS1-1
+Removed Pin From Net: NetName=3V3 Pin=OSC1-2
+Removed Pin From Net: NetName=3V3 Pin=OSC1-4
+Removed Pin From Net: NetName=5V0 Pin=P1-5
+Removed Pin From Net: NetName=3V3 Pin=P3-9
+Removed Pin From Net: NetName=3V3 Pin=P4-4
+Removed Pin From Net: NetName=3V3 Pin=P4-5
+Removed Pin From Net: NetName=5V0 Pin=P6-1
+Removed Pin From Net: NetName=3V3 Pin=P7-9
+Removed Pin From Net: NetName=3V3 Pin=P8-1
+Removed Pin From Net: NetName=3V3 Pin=P8-1
+Removed Pin From Net: NetName=3V3 Pin=P9-17
+Removed Pin From Net: NetName=3V3 Pin=P9-18
+Removed Pin From Net: NetName=3V3 Pin=P10-9
+Removed Pin From Net: NetName=3V3 Pin=P11-25
+Removed Pin From Net: NetName=2.5V Pin=P11-26
+Removed Pin From Net: NetName=5V0 Pin=P11-27
+Removed Pin From Net: NetName=3V3 Pin=P11-28
+Removed Pin From Net: NetName=3V3 Pin=P12-2
+Removed Pin From Net: NetName=3V3 Pin=P12-4
+Removed Pin From Net: NetName=3V3 Pin=P12-10
+Removed Pin From Net: NetName=3V3 Pin=P13-9
+Removed Pin From Net: NetName=3V3 Pin=P14-9
+Removed Pin From Net: NetName=3V3 Pin=Q1-1
+Removed Pin From Net: NetName=3V3 Pin=Q2-1
+Removed Pin From Net: NetName=3V3 Pin=Q3-1
+Removed Pin From Net: NetName=3V3 Pin=Q4-1
+Removed Pin From Net: NetName=3V3 Pin=R1-2
+Removed Pin From Net: NetName=3V3 Pin=R2-2
+Removed Pin From Net: NetName=3V3 Pin=R3-1
+Removed Pin From Net: NetName=5V0 Pin=R4-2
+Removed Pin From Net: NetName=5V0 Pin=R5-2
+Removed Pin From Net: NetName=5V0 Pin=R6-1
+Removed Pin From Net: NetName=3V3 Pin=R6-2
+Removed Pin From Net: NetName=5V0 Pin=R7-2
+Removed Pin From Net: NetName=3V3 Pin=R8-2
+Removed Pin From Net: NetName=3V3 Pin=R9-1
+Removed Pin From Net: NetName=3V3 Pin=R14-2
+Removed Pin From Net: NetName=3V3 Pin=R15-2
+Removed Pin From Net: NetName=3V3 Pin=R16-2
+Removed Pin From Net: NetName=3V3 Pin=R21-2
+Removed Pin From Net: NetName=3V3 Pin=R22-2
+Removed Pin From Net: NetName=2.5V Pin=R23-2
+Removed Pin From Net: NetName=3V3 Pin=R24-1
+Removed Pin From Net: NetName=3V3 Pin=R25-1
+Removed Pin From Net: NetName=2.5V Pin=R26-2
+Removed Pin From Net: NetName=2.5V Pin=R27-2
+Removed Pin From Net: NetName=2.5V Pin=R28-2
+Removed Pin From Net: NetName=5V0 Pin=R29-2
+Removed Pin From Net: NetName=5V0 Pin=R30-2
+Removed Pin From Net: NetName=3V3 Pin=R35-1
+Removed Pin From Net: NetName=1.2V Pin=R35-2
+Removed Pin From Net: NetName=3V3 Pin=R38-1
+Removed Pin From Net: NetName=3V3 Pin=R39-1
+Removed Pin From Net: NetName=3V3 Pin=R40-1
+Removed Pin From Net: NetName=3V3 Pin=R41-1
+Removed Pin From Net: NetName=3V3 Pin=R47-1
+Removed Pin From Net: NetName=3V3 Pin=R50-1
+Removed Pin From Net: NetName=3V3 Pin=R55-2
+Removed Pin From Net: NetName=5V0 Pin=R58-1
+Removed Pin From Net: NetName=3V3 Pin=S2-9
+Removed Pin From Net: NetName=3V3 Pin=S2-10
+Removed Pin From Net: NetName=3V3 Pin=S2-11
+Removed Pin From Net: NetName=3V3 Pin=S2-12
+Removed Pin From Net: NetName=3V3 Pin=S2-13
+Removed Pin From Net: NetName=3V3 Pin=S2-14
+Removed Pin From Net: NetName=3V3 Pin=S2-15
+Removed Pin From Net: NetName=3V3 Pin=S2-16
+Removed Pin From Net: NetName=3V3 Pin=S3-1
+Removed Pin From Net: NetName=3V3 Pin=S4-1
+Removed Pin From Net: NetName=3V3 Pin=S5-2
+Removed Pin From Net: NetName=3V3 Pin=S6-2
+Removed Pin From Net: NetName=3V3 Pin=S7-2
+Removed Pin From Net: NetName=3V3 Pin=S8-2
+Removed Pin From Net: NetName=3V3 Pin=S9-2
+Removed Pin From Net: NetName=3V3 Pin=U1-1
+Removed Pin From Net: NetName=3V3 Pin=U1-8
+Removed Pin From Net: NetName=3V3 Pin=U1-14
+Removed Pin From Net: NetName=3V3 Pin=U1-25
+Removed Pin From Net: NetName=3V3 Pin=U1-30
+Removed Pin From Net: NetName=3V3 Pin=U1-41
+Removed Pin From Net: NetName=3V3 Pin=U1-47
+Removed Pin From Net: NetName=3V3 Pin=U1-53
+Removed Pin From Net: NetName=3V3 Pin=U1-54
+Removed Pin From Net: NetName=3V3 Pin=U1-55
+Removed Pin From Net: NetName=3V3 Pin=U1-56
+Removed Pin From Net: NetName=3V3 Pin=U1-59
+Removed Pin From Net: NetName=3V3 Pin=U1-66
+Removed Pin From Net: NetName=3V3 Pin=U1-75
+Removed Pin From Net: NetName=3V3 Pin=U1-82
+Removed Pin From Net: NetName=3V3 Pin=U1-91
+Removed Pin From Net: NetName=3V3 Pin=U1-99
+Removed Pin From Net: NetName=3V3 Pin=U1-105
+Removed Pin From Net: NetName=3V3 Pin=U1-112
+Removed Pin From Net: NetName=3V3 Pin=U1-118
+Removed Pin From Net: NetName=3V3 Pin=U1-129
+Removed Pin From Net: NetName=3V3 Pin=U1-134
+Removed Pin From Net: NetName=3V3 Pin=U1-145
+Removed Pin From Net: NetName=3V3 Pin=U1-151
+Removed Pin From Net: NetName=3V3 Pin=U1-157
+Removed Pin From Net: NetName=3V3 Pin=U1-163
+Removed Pin From Net: NetName=3V3 Pin=U1-170
+Removed Pin From Net: NetName=3V3 Pin=U1-179
+Removed Pin From Net: NetName=3V3 Pin=U1-186
+Removed Pin From Net: NetName=3V3 Pin=U1-195
+Removed Pin From Net: NetName=3V3 Pin=U1-202
+Removed Pin From Net: NetName=3V3 Pin=U1-206
+Removed Pin From Net: NetName=3V3 Pin=U2-9
+Removed Pin From Net: NetName=5V0 Pin=U2-10
+Removed Pin From Net: NetName=3V3 Pin=U3-1
+Removed Pin From Net: NetName=3V3 Pin=U3-18
+Removed Pin From Net: NetName=3V3 Pin=U3-19
+Removed Pin From Net: NetName=3V3 Pin=U3-31
+Removed Pin From Net: NetName=3V3 Pin=U3-32
+Removed Pin From Net: NetName=3V3 Pin=U3-47
+Removed Pin From Net: NetName=3V3 Pin=U3-48
+Removed Pin From Net: NetName=3V3 Pin=U3-63
+Removed Pin From Net: NetName=3V3 Pin=U3-64
+Removed Pin From Net: NetName=3V3 Pin=U4-3
+Removed Pin From Net: NetName=3V3 Pin=U4-5
+Removed Pin From Net: NetName=3V3 Pin=U5-1
+Removed Pin From Net: NetName=3V3 Pin=U5-2
+Removed Pin From Net: NetName=3V3 Pin=U5-2
+Removed Pin From Net: NetName=5V0 Pin=U5-3
+Removed Pin From Net: NetName=3V3 Pin=U6-1
+Removed Pin From Net: NetName=3V3 Pin=U6-10
+Removed Pin From Net: NetName=3V3 Pin=U6-19
+Removed Pin From Net: NetName=5V0 Pin=U6-20
+Removed Pin From Net: NetName=3V3 Pin=U8-1
+Removed Pin From Net: NetName=2.5V Pin=U8-2
+Removed Pin From Net: NetName=2.5V Pin=U8-2
+Removed Pin From Net: NetName=3V3 Pin=U8-3
+Removed Pin From Net: NetName=3V3 Pin=U9-1
+Removed Pin From Net: NetName=3V3 Pin=U9-2
+Removed Pin From Net: NetName=3V3 Pin=U9-3
+Removed Pin From Net: NetName=3V3 Pin=U9-4
+Removed Pin From Net: NetName=3V3 Pin=U9-7
+Removed Pin From Net: NetName=3V3 Pin=U9-8
+Removed Pin From Net: NetName=5V0 Pin=U10-4
+Removed Pin From Net: NetName=3V3 Pin=U10-7
+Removed Pin From Net: NetName=3V3 Pin=U10-18
+Removed Pin From Net: NetName=5V0 Pin=U10-20
+Removed Pin From Net: NetName=3V3 Pin=U10-21
+Removed Pin From Net: NetName=3V3 Pin=U10-25
+Removed Pin From Net: NetName=3V3 Pin=U10-26
+Removed Pin From Net: NetName=3V3 Pin=U11-11
+Removed Pin From Net: NetName=3V3 Pin=U11-18
+Removed Pin From Net: NetName=3V3 Pin=U11-19
+Removed Pin From Net: NetName=3V3 Pin=U11-20
+Removed Pin From Net: NetName=3V3 Pin=U12-1
+Removed Pin From Net: NetName=1.2V Pin=U12-2
+Removed Pin From Net: NetName=1.2V Pin=U12-2
+Removed Pin From Net: NetName=5V0 Pin=U12-3
+Removed Pin From Net: NetName=3V3 Pin=U13-11
+Removed Pin From Net: NetName=3V3 Pin=U13-12
+Removed Pin From Net: NetName=3V3 Pin=U13-33
+Removed Pin From Net: NetName=3V3 Pin=U13-34
+Removed Pin From Net: NetName=3V3 Pin=U14-1
+Removed Pin From Net: NetName=3V3 Pin=U14-5
+Removed Pin From Net: NetName=3V3 Pin=U14-10
+Removed Pin From Net: NetName=3V3 Pin=U14-11
+Removed Pin From Net: NetName=3V3 Pin=U14-13
+Removed Pin From Net: NetName=3V3 Pin=U14-15
+Removed Pin From Net: NetName=3V3 Pin=U14-20
+Removed Pin From Net: NetName=3V3 Pin=U14-25
+Removed Pin From Net: NetName=3V3 Pin=U14-31
+Removed Pin From Net: NetName=3V3 Pin=U14-35
+Removed Pin From Net: NetName=3V3 Pin=U14-42
+Removed Pin From Net: NetName=3V3 Pin=U14-47
+Removed Pin From Net: NetName=1.8V Pin=U14-49
+Removed Pin From Net: NetName=3V3 Pin=U14-50
+Removed Pin From Net: NetName=3V3 Pin=U14-51
+Removed Pin From Net: NetName=3V3 Pin=U14-56
+Removed Pin From Net: NetName=3V3 Pin=U15-1
+Removed Pin From Net: NetName=3V3 Pin=U15-10
+Removed Pin From Net: NetName=3V3 Pin=U15-19
+Removed Pin From Net: NetName=5V0 Pin=U15-20
+Removed Pin From Net: NetName=3V3 Pin=U16-5
+Removed Pin From Net: NetName=5V0 Pin=U16-8
+Removed Pin From Net: NetName=3V3 Pin=U17-15
+Removed Pin From Net: NetName=3V3 Pin=U17-16
+Removed Pin From Net: NetName=5V0 Pin=USB1-1
+Removed Pin From Net: NetName=3V3 Pin=USB1-5
+Removed Pin From Net: NetName=3V3 Pin=USB2-5
+Change Net Name : Old Net Name=1.2V New Net Name=NetC20_2
+Change Net Name : Old Net Name=1.8V New Net Name=NetU14_12
+Change Net Name : Old Net Name=2.5V New Net Name=3.3V
+Change Net Name : Old Net Name=3V3 New Net Name=NetC1_2
+Change Net Name : Old Net Name=5V0 New Net Name=NetC36_2
+Added Pin To Net: NetName=2.5V Pin=P11-26
+Added Net: Name=2.5V
+Added Pin To Net: NetName=5V Pin=U10-4
+Added Pin To Net: NetName=5V Pin=U10-20
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=U2-10
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_1 Pin=C33-1
+Added Net: Name=NetC24_1
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=L2-2
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=NetC34_2 Pin=L1-2
+Added Net: Name=NetC34_2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=P8-1
+Added Pin To Net: NetName=NetC35_1 Pin=P8-1
+Added Pin To Net: NetName=NetC35_1 Pin=U4-3
+Added Pin To Net: NetName=NetC35_1 Pin=U4-5
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=NetC36_1 Pin=D5-1
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=C38-1
+Added Pin To Net: NetName=NetC37_1 Pin=C39-1
+Added Pin To Net: NetName=NetC37_1 Pin=C40-1
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Pin To Net: NetName=NetC37_2 Pin=C38-2
+Added Pin To Net: NetName=NetC37_2 Pin=C39-2
+Added Pin To Net: NetName=NetC37_2 Pin=C40-2
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=U6-20
+Added Net: Name=NetC42_2
+Added Pin To Net: NetName=NetC43_1 Pin=C43-1
+Added Pin To Net: NetName=NetC43_1 Pin=C45-2
+Added Pin To Net: NetName=NetC43_1 Pin=U5-2
+Added Pin To Net: NetName=NetC43_1 Pin=U5-2
+Added Net: Name=NetC43_1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=C45-1
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetC44_2 Pin=C44-2
+Added Pin To Net: NetName=NetC44_2 Pin=U5-3
+Added Net: Name=NetC44_2
+Added Pin To Net: NetName=NetC46_1 Pin=C46-1
+Added Pin To Net: NetName=NetC46_1 Pin=C49-2
+Added Pin To Net: NetName=NetC46_1 Pin=U8-2
+Added Pin To Net: NetName=NetC46_1 Pin=U8-2
+Added Net: Name=NetC46_1
+Added Pin To Net: NetName=NetC46_2 Pin=C46-2
+Added Pin To Net: NetName=NetC46_2 Pin=C49-1
+Added Net: Name=NetC46_2
+Added Pin To Net: NetName=NetC47_2 Pin=C47-2
+Added Pin To Net: NetName=NetC47_2 Pin=R24-1
+Added Pin To Net: NetName=NetC47_2 Pin=R25-1
+Added Pin To Net: NetName=NetC47_2 Pin=U9-8
+Added Net: Name=NetC47_2
+Added Pin To Net: NetName=NetC48_2 Pin=C48-2
+Added Pin To Net: NetName=NetC48_2 Pin=U8-3
+Added Net: Name=NetC48_2
+Added Pin To Net: NetName=NetC50_2 Pin=C50-2
+Added Pin To Net: NetName=NetC50_2 Pin=U11-18
+Added Pin To Net: NetName=NetC50_2 Pin=U11-19
+Added Pin To Net: NetName=NetC50_2 Pin=U11-20
+Added Net: Name=NetC50_2
+Added Pin To Net: NetName=NetC53_1 Pin=C53-1
+Added Pin To Net: NetName=NetC53_1 Pin=R35-2
+Added Pin To Net: NetName=NetC53_1 Pin=U12-2
+Added Pin To Net: NetName=NetC53_1 Pin=U12-2
+Added Net: Name=NetC53_1
+Added Pin To Net: NetName=NetC53_2 Pin=C53-2
+Added Pin To Net: NetName=NetC53_2 Pin=C55-1
+Added Pin To Net: NetName=NetC53_2 Pin=R35-1
+Added Net: Name=NetC53_2
+Added Pin To Net: NetName=NetC54_2 Pin=C54-2
+Added Pin To Net: NetName=NetC54_2 Pin=U12-3
+Added Net: Name=NetC54_2
+Added Pin To Net: NetName=NetC56_1 Pin=C56-1
+Added Pin To Net: NetName=NetC56_1 Pin=C56-2
+Added Pin To Net: NetName=NetC56_1 Pin=C57-1
+Added Pin To Net: NetName=NetC56_1 Pin=C57-2
+Added Pin To Net: NetName=NetC56_1 Pin=U13-11
+Added Pin To Net: NetName=NetC56_1 Pin=U13-12
+Added Net: Name=NetC56_1
+Added Pin To Net: NetName=NetC58_1 Pin=C58-1
+Added Pin To Net: NetName=NetC58_1 Pin=C59-1
+Added Pin To Net: NetName=NetC58_1 Pin=U13-33
+Added Net: Name=NetC58_1
+Added Pin To Net: NetName=NetC58_2 Pin=C58-2
+Added Pin To Net: NetName=NetC58_2 Pin=C59-2
+Added Pin To Net: NetName=NetC58_2 Pin=U13-34
+Added Net: Name=NetC58_2
+Added Pin To Net: NetName=NetC60_1 Pin=C60-1
+Added Pin To Net: NetName=NetC60_1 Pin=C61-1
+Added Net: Name=NetC60_1
+Added Pin To Net: NetName=NetC60_2 Pin=C60-2
+Added Pin To Net: NetName=NetC60_2 Pin=C61-2
+Added Net: Name=NetC60_2
+Added Pin To Net: NetName=NetC62_1 Pin=C62-1
+Added Pin To Net: NetName=NetC62_1 Pin=C63-1
+Added Pin To Net: NetName=NetC62_1 Pin=C64-1
+Added Pin To Net: NetName=NetC62_1 Pin=C65-1
+Added Net: Name=NetC62_1
+Added Pin To Net: NetName=NetC66_1 Pin=C66-1
+Added Pin To Net: NetName=NetC66_1 Pin=S6-2
+Added Net: Name=NetC66_1
+Added Pin To Net: NetName=NetC67_1 Pin=C67-1
+Added Pin To Net: NetName=NetC67_1 Pin=S7-2
+Added Net: Name=NetC67_1
+Added Pin To Net: NetName=NetC68_1 Pin=C68-1
+Added Pin To Net: NetName=NetC68_1 Pin=S8-2
+Added Net: Name=NetC68_1
+Added Pin To Net: NetName=NetC69_1 Pin=C69-1
+Added Pin To Net: NetName=NetC69_1 Pin=S9-2
+Added Net: Name=NetC69_1
+Added Pin To Net: NetName=NetC70_1 Pin=C70-1
+Added Pin To Net: NetName=NetC70_1 Pin=U15-20
+Added Net: Name=NetC70_1
+Added Pin To Net: NetName=NetC74_2 Pin=C74-2
+Added Pin To Net: NetName=NetC74_2 Pin=U17-16
+Added Net: Name=NetC74_2
+Added Pin To Net: NetName=NetC75_1 Pin=C75-1
+Added Pin To Net: NetName=NetC75_1 Pin=C78-1
+Added Net: Name=NetC75_1
+Added Pin To Net: NetName=NetC76_1 Pin=C76-1
+Added Pin To Net: NetName=NetC76_1 Pin=OSC1-2
+Added Net: Name=NetC76_1
+Added Pin To Net: NetName=NetC76_2 Pin=C76-2
+Added Pin To Net: NetName=NetC76_2 Pin=OSC1-4
+Added Net: Name=NetC76_2
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-8
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-11
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=NetL4_1 Pin=L5-1
+Added Net: Name=NetL4_1
+Added Pin To Net: NetName=NetLCD1_2 Pin=LCD1-2
+Added Pin To Net: NetName=NetLCD1_2 Pin=LCD1-15
+Added Pin To Net: NetName=NetLCD1_2 Pin=R6-1
+Added Net: Name=NetLCD1_2
+Added Pin To Net: NetName=NetP12_2 Pin=P12-2
+Added Pin To Net: NetName=NetP12_2 Pin=P12-10
+Added Net: Name=NetP12_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetR27_2 Pin=R28-2
+Added Net: Name=NetR27_2
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=R30-2
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetS2_9 Pin=S2-9
+Added Pin To Net: NetName=NetS2_9 Pin=S2-10
+Added Pin To Net: NetName=NetS2_9 Pin=S2-11
+Added Pin To Net: NetName=NetS2_9 Pin=S2-12
+Added Pin To Net: NetName=NetS2_9 Pin=S2-13
+Added Pin To Net: NetName=NetS2_9 Pin=S2-14
+Added Pin To Net: NetName=NetS2_9 Pin=S2-15
+Added Pin To Net: NetName=NetS2_9 Pin=S2-16
+Added Net: Name=NetS2_9
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-8
+Added Pin To Net: NetName=NetU1_1 Pin=U1-14
+Added Pin To Net: NetName=NetU1_1 Pin=U1-25
+Added Pin To Net: NetName=NetU1_1 Pin=U1-30
+Added Pin To Net: NetName=NetU1_1 Pin=U1-41
+Added Pin To Net: NetName=NetU1_1 Pin=U1-47
+Added Pin To Net: NetName=NetU1_1 Pin=U1-53
+Added Pin To Net: NetName=NetU1_1 Pin=U1-59
+Added Pin To Net: NetName=NetU1_1 Pin=U1-66
+Added Pin To Net: NetName=NetU1_1 Pin=U1-75
+Added Pin To Net: NetName=NetU1_1 Pin=U1-82
+Added Pin To Net: NetName=NetU1_1 Pin=U1-91
+Added Pin To Net: NetName=NetU1_1 Pin=U1-99
+Added Net: Name=NetU1_1
+Added Pin To Net: NetName=NetU1_54 Pin=U1-54
+Added Pin To Net: NetName=NetU1_54 Pin=U1-55
+Added Pin To Net: NetName=NetU1_54 Pin=U1-56
+Added Pin To Net: NetName=NetU1_54 Pin=U1-206
+Added Net: Name=NetU1_54
+Added Pin To Net: NetName=NetU1_105 Pin=U1-105
+Added Pin To Net: NetName=NetU1_105 Pin=U1-112
+Added Pin To Net: NetName=NetU1_105 Pin=U1-118
+Added Pin To Net: NetName=NetU1_105 Pin=U1-129
+Added Pin To Net: NetName=NetU1_105 Pin=U1-134
+Added Pin To Net: NetName=NetU1_105 Pin=U1-145
+Added Pin To Net: NetName=NetU1_105 Pin=U1-151
+Added Pin To Net: NetName=NetU1_105 Pin=U1-157
+Added Pin To Net: NetName=NetU1_105 Pin=U1-163
+Added Pin To Net: NetName=NetU1_105 Pin=U1-170
+Added Pin To Net: NetName=NetU1_105 Pin=U1-179
+Added Pin To Net: NetName=NetU1_105 Pin=U1-186
+Added Pin To Net: NetName=NetU1_105 Pin=U1-195
+Added Pin To Net: NetName=NetU1_105 Pin=U1-202
+Added Net: Name=NetU1_105
+Added Pin To Net: NetName=NetU3_1 Pin=U3-1
+Added Pin To Net: NetName=NetU3_1 Pin=U3-19
+Added Pin To Net: NetName=NetU3_1 Pin=U3-32
+Added Pin To Net: NetName=NetU3_1 Pin=U3-48
+Added Pin To Net: NetName=NetU3_1 Pin=U3-64
+Added Net: Name=NetU3_1
+Added Pin To Net: NetName=NetU3_18 Pin=U3-18
+Added Pin To Net: NetName=NetU3_18 Pin=U3-31
+Added Pin To Net: NetName=NetU3_18 Pin=U3-47
+Added Pin To Net: NetName=NetU3_18 Pin=U3-63
+Added Net: Name=NetU3_18
+Added Pin To Net: NetName=NetU6_1 Pin=U6-1
+Added Pin To Net: NetName=NetU6_1 Pin=U6-19
+Added Net: Name=NetU6_1
+Added Pin To Net: NetName=NetU9_1 Pin=U9-1
+Added Pin To Net: NetName=NetU9_1 Pin=U9-2
+Added Pin To Net: NetName=NetU9_1 Pin=U9-3
+Added Pin To Net: NetName=NetU9_1 Pin=U9-4
+Added Pin To Net: NetName=NetU9_1 Pin=U9-7
+Added Net: Name=NetU9_1
+Added Pin To Net: NetName=NetU10_7 Pin=U10-7
+Added Pin To Net: NetName=NetU10_7 Pin=U10-18
+Added Pin To Net: NetName=NetU10_7 Pin=U10-21
+Added Pin To Net: NetName=NetU10_7 Pin=U10-25
+Added Pin To Net: NetName=NetU10_7 Pin=U10-26
+Added Net: Name=NetU10_7
+Added Pin To Net: NetName=NetU14_1 Pin=U14-1
+Added Pin To Net: NetName=NetU14_1 Pin=U14-5
+Added Pin To Net: NetName=NetU14_1 Pin=U14-10
+Added Pin To Net: NetName=NetU14_1 Pin=U14-11
+Added Pin To Net: NetName=NetU14_1 Pin=U14-13
+Added Pin To Net: NetName=NetU14_1 Pin=U14-15
+Added Pin To Net: NetName=NetU14_1 Pin=U14-25
+Added Pin To Net: NetName=NetU14_1 Pin=U14-35
+Added Pin To Net: NetName=NetU14_1 Pin=U14-47
+Added Pin To Net: NetName=NetU14_1 Pin=U14-51
+Added Net: Name=NetU14_1
+Added Pin To Net: NetName=NetU14_20 Pin=U14-20
+Added Pin To Net: NetName=NetU14_20 Pin=U14-31
+Added Pin To Net: NetName=NetU14_20 Pin=U14-42
+Added Pin To Net: NetName=NetU14_20 Pin=U14-56
+Added Net: Name=NetU14_20
+Added Pin To Net: NetName=NetU15_1 Pin=U15-1
+Added Pin To Net: NetName=NetU15_1 Pin=U15-19
+Added Net: Name=NetU15_1

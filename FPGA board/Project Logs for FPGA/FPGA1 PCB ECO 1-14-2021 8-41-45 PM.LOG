@@ -1,0 +1,85 @@
+Change Component Footprint: Designator=J1 Old Footprint=050DSUB0.762-4H15 New Footprint=DSUB_15RF
+Change Component Footprint: Designator=L1 Old Footprint=0402-A New Footprint=smd_805
+Change Component Footprint: Designator=L2 Old Footprint=0402-A New Footprint=smd_805
+Change Component Footprint: Designator=L3 Old Footprint=0402-A New Footprint=smd_805
+Change Component Footprint: Designator=L4 Old Footprint=0402-A New Footprint=smd_805
+Change Component Footprint: Designator=L5 Old Footprint=0402-A New Footprint=smd_805
+Change Component Footprint: Designator=L6 Old Footprint=0402-A New Footprint=smd_805
+Change Component Footprint: Designator=S2 Old Footprint=ARRAY_KEY8 New Footprint=DIPSW254_8
+Change Component Footprint: Designator=P7 Old Footprint=HDR1X9 New Footprint=Aray 9
+Change Component Footprint: Designator=Y2 Old Footprint=R38 New Footprint=XTAL_SMD
+Added Component: Designator=U14(LQFP-64_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ftdichip.com/Products/ICs/FT2232H.htm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 2.08, May-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "64-Pin Thin Quad Flat Pack, 10 x 10 x 1.4 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP-64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "19-Aug-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U16(SOIC-SN8_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentAvailability"; Value = "Unknown. Contact manufacturer to determine status."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21749G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Packaging Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Microchip.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revG, May-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Lead Plastic Small Outline (SN) - Narrow, 3.90mm Body [SOIC]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-SN8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29-Jan-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "93LC46A-E/SN-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U14-1
+Added Pin To Net: NetName=NetC75_2 Pin=U14-2
+Added Pin To Net: NetName=NetC78_2 Pin=U14-3
+Added Pin To Net: NetName=NetC63_2 Pin=U14-4
+Added Pin To Net: NetName=3V3 Pin=U14-5
+Added Pin To Net: NetName=NetR50_2 Pin=U14-6
+Added Pin To Net: NetName=NetR42_2 Pin=U14-7
+Added Pin To Net: NetName=NetR45_2 Pin=U14-8
+Added Pin To Net: NetName=NetC62_2 Pin=U14-9
+Added Pin To Net: NetName=3V3 Pin=U14-10
+Added Pin To Net: NetName=3V3 Pin=U14-11
+Added Pin To Net: NetName=1.8V Pin=U14-12
+Added Pin To Net: NetName=3V3 Pin=U14-13
+Added Pin To Net: NetName=NetR47_2 Pin=U14-14
+Added Pin To Net: NetName=3V3 Pin=U14-15
+Added Pin To Net: NetName=TCK Pin=U14-16
+Added Pin To Net: NetName=TDI Pin=U14-17
+Added Pin To Net: NetName=TDO Pin=U14-18
+Added Pin To Net: NetName=TMS Pin=U14-19
+Added Pin To Net: NetName=3V3 Pin=U14-20
+Added Pin To Net: NetName=3V3 Pin=U14-25
+Added Pin To Net: NetName=3V3 Pin=U14-31
+Added Pin To Net: NetName=3V3 Pin=U14-35
+Added Pin To Net: NetName=1.8V Pin=U14-37
+Added Pin To Net: NetName=TXD_FT2232/MPSSE_TCK Pin=U14-38
+Added Pin To Net: NetName=RXD_FT2232/MPSSE_TDI Pin=U14-39
+Added Pin To Net: NetName=3V3 Pin=U14-42
+Added Pin To Net: NetName=3V3 Pin=U14-47
+Added Pin To Net: NetName=1.8V Pin=U14-49
+Added Pin To Net: NetName=3V3 Pin=U14-50
+Added Pin To Net: NetName=3V3 Pin=U14-51
+Added Pin To Net: NetName=3V3 Pin=U14-56
+Added Pin To Net: NetName=NetR59_2 Pin=U14-61
+Added Pin To Net: NetName=NetU14_62 Pin=U14-62
+Added Pin To Net: NetName=NetU14_63 Pin=U14-63
+Added Pin To Net: NetName=1.8V Pin=U14-64
+Added Pin To Net: NetName=NetU14_63 Pin=U16-1
+Added Pin To Net: NetName=NetU14_62 Pin=U16-2
+Added Pin To Net: NetName=NetR59_2 Pin=U16-3
+Added Pin To Net: NetName=NetR58_2 Pin=U16-4
+Added Pin To Net: NetName=3V3 Pin=U16-5
+Added Pin To Net: NetName=5V0 Pin=U16-8
+Added Member To Class: ClassName=FPGA1 Member=Component U14 FT2232HL-Reel
+Added Member To Class: ClassName=FPGA1 Member=Component U16 93LC46A-E/SN

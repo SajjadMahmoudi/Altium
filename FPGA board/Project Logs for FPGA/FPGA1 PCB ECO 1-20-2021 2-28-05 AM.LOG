@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR_F_1X5 New Footprint=HDR_M_1X5
+Change Component Footprint: Designator=P4 Old Footprint=HDR_F_1X5 New Footprint=HDR_M_1X5
+Change Component Footprint: Designator=P9 Old Footprint=HDR_F_2X9 New Footprint=HDR_M_2X9
+Change Component Footprint: Designator=P11 Old Footprint=HDR_F_2X14 New Footprint=HDR_M_2X14
+Added Room: Name=FPGA1

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=DX_1 Pin=U1-20
+Removed Pin From Net: NetName=DX_2 Pin=U1-21
+Removed Pin From Net: NetName=DX_3 Pin=U1-22
+Removed Pin From Net: NetName=DX_4 Pin=U1-24
+Removed Pin From Net: NetName=DX_5 Pin=U1-26
+Removed Pin From Net: NetName=DX_6 Pin=U1-27
+Removed Pin From Net: NetName=DX_7 Pin=U1-28
+Removed Pin From Net: NetName=DX_8 Pin=U1-29
+Added Pin To Net: NetName=DX_8 Pin=U1-20
+Added Pin To Net: NetName=DX_7 Pin=U1-21
+Added Pin To Net: NetName=DX_6 Pin=U1-22
+Added Pin To Net: NetName=DX_5 Pin=U1-24
+Added Pin To Net: NetName=DX_4 Pin=U1-26
+Added Pin To Net: NetName=DX_3 Pin=U1-27
+Added Pin To Net: NetName=DX_2 Pin=U1-28
+Added Pin To Net: NetName=DX_1 Pin=U1-29
+Added Member To Class: ClassName=FPGA1 Member=Component U1 XC3S400-4PQ208C
+Added Room: Name=FPGA1

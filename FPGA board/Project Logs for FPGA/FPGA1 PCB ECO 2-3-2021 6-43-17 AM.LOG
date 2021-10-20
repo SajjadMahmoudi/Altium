@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=P8-1
+Added Pin To Net: NetName=NetC35_1 Pin=P8-1
+Added Pin To Net: NetName=NetC35_1 Pin=U4-3
+Added Pin To Net: NetName=NetC35_1 Pin=U4-5
+Added Net: Name=NetC35_1
+Added Member To Class: ClassName=FPGA1 Member=Component P8 Header 2
+Added Room: Name=FPGA1

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PP93 Pin=U1-42
+Removed Pin From Net: NetName=MOTOR_1 Pin=U1-80
+Added Pin To Net: NetName=MOTOR_1 Pin=U1-42
+Added Pin To Net: NetName=PP93 Pin=U1-80
+Added Room: Name=FPGA1
