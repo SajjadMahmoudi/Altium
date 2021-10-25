@@ -1,6 +1,6 @@
 # Altium
 ## FPGA & ARM
-### above
+- above
 ![alt text](https://github.com/SajjadMahmoudi/Altium/blob/main/FPGA%20board/FPGA1-above.png)
-### below
+- below
 ![alt text](https://github.com/SajjadMahmoudi/Altium/blob/main/FPGA%20board/FPGA1-below.png)
